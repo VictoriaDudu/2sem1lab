@@ -1,0 +1,21 @@
+Dlist
+a 7,5
+b 3
+
+Slist
+a 2,4,4,3
+
+Array
+a 3,2,6
+b 3,2
+
+Stack
+a 5,3
+
+Queue
+a 2,5
+
+Map
+a b,7
+
+AvlTree
